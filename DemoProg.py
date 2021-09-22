@@ -1,2 +1,2 @@
-a=input("Enter text: ")
+a='Hello World'
 print(a)
